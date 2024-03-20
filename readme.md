@@ -1,5 +1,3 @@
 ## **Hi**
 
-Welcome to my first AJAX site
-
-Right now it's only a top menu, but wait for it :D
+Essa landing page foi feita pro desafio extra da trilha 1 da Descodificadas :D
