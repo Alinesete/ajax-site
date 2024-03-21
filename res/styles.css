@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url("miku.png");
+    background-image: url("miku by Thermaltake.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -10,6 +10,7 @@ body {
 
 section {
     padding: 50px;
+    padding-top: 90px;
     margin: 40px 20px;
     background-color: rgb(181, 228, 228);
     border-radius: 30px;
@@ -23,7 +24,7 @@ h2 {
 
 .title{
     margin-top: 400px;
-    margin-bottom: 200px;
+    margin-bottom: 250px;
     width: 100%;
     height: 200px;
     text-align: center;
@@ -36,7 +37,7 @@ h2 {
 }
 
 .galeria{
-    margin: 90px;
+    margin: 50px;
     display: flex;
 }
 .galeria div{
@@ -52,3 +53,16 @@ h2 {
     margin: 5px;
     font-size: 0.9em;
 }
+
+
+iframe{
+    border-radius: 10px;
+}
+
+hr {
+    width: 90%;
+    opacity: 0.2;
+    border-top: 10px dashed #0d7280;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
