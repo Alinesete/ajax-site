@@ -12,8 +12,9 @@ section {
     padding: 50px;
     padding-top: 90px;
     margin: 40px 20px;
+    margin-bottom: 0px;
     background-color: rgb(181, 228, 228);
-    border-radius: 30px;
+    border-radius: 30px 30px 0px 0px;
     color: #0d7280;
     text-align: center;
 }
@@ -33,7 +34,8 @@ h2 {
 .title h1 {
     color: #0d7280;
     font-size: 5em;
-    font-family: "Courier", monospace;
+    font-family: "Slackside One", cursive;
+    font-weight: 400;
 }
 
 .galeria{
@@ -65,4 +67,41 @@ hr {
     border-top: 10px dashed #0d7280;
     margin-top: 100px;
     margin-bottom: 100px;
-  }
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding: 20px;
+}
+
+.footer svg {
+    max-width: 20px;
+    height: auto;
+    fill: white;
+    vertical-align: middle;
+    float: right;
+    padding-left: 20px;
+}
+
+.formulario form input {
+    padding: 10px;
+    width: 50em;
+    margin: 10px;
+    border: 4px solid #339eac;
+    border-radius: 10px;
+    color: #0d7280;
+}
+
+.formulario form textarea {
+    padding: 10px;
+    width: 50em;
+    height: 30em;
+    margin: 10px;
+    resize: none;
+    border: 4px solid #339eac;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0d7280;
+}

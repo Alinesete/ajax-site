@@ -9,5 +9,5 @@ Essa landing page foi feita pro desafio extra da trilha 1 da Descodificadas :D
 <br>✔ ~~Galeria com imagens com descrição (pelo menos 3 imagens)~~
 <br>✔ ~~Vídeo~~
 <br>✔ ~~Mapa de localização~~
-<br>❌ Formulário para coletar cadastro
-<br>❌ Rodapé com a frase criado por "seunome" - apenas para fins didáticos
+<br>✔ ~~Formulário para coletar cadastro~~
+<br>✔ ~~Rodapé com a frase criado por "seunome" - apenas para fins didáticos~~
