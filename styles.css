@@ -1,39 +1,54 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
+    padding: 0;
+    background-image: url("miku.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
-
-.menu {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 1000;
-    height: auto; /* Defina a altura como automática */
-    pointer-events: auto;
-}
-
-.content {
-    padding-top: 40px;
-}
-
 
 section {
-    padding: 30px;
-    padding-top: 5px;
+    padding: 50px;
     margin: 40px 20px;
-    background-color: #d8d8d8;
-    border-radius: 5px;
+    background-color: rgb(181, 228, 228);
+    border-radius: 30px;
+    color: #0d7280;
+    text-align: center;
 }
 
 h2 {
     color: #333;
 }
 
-.footer {
-    background-color: white;
-    height: 30px;
+.title{
+    margin-top: 400px;
+    margin-bottom: 200px;
     width: 100%;
-    position: fixed;
-    bottom: 0;
-    z-index: 999;
+    height: 200px;
+    text-align: center;
+}
+
+.title h1 {
+    color: #0d7280;
+    font-size: 5em;
+    font-family: "Courier", monospace;
+}
+
+.galeria{
+    margin: 90px;
+    display: flex;
+}
+.galeria div{
+    flex: auto;
+}
+.galeria img{
+    max-width:400px;
+    height: auto;
+    border-radius: 20%;
+}
+
+.galeria h6{
+    margin: 5px;
+    font-size: 0.9em;
 }
