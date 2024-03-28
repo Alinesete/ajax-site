@@ -1,5 +1,5 @@
 ## **Hi**
-Essa landing page foi feita pro desafio extra da trilha 1 da Descodificadas :D
+Essa landpage da Hatasune Miku foi feita pro desafio extra da trilha 1 da Descodificadas :D
 <br>
 <br>✔ ~~Logo~~
 <br>✔ ~~Menu~~
